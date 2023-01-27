@@ -41,7 +41,7 @@ Solving Algo problems and documenting the thought process behind every structure
 To run tests, run the following command
 
 ```bash
-  npm run test <cd folder/run>
+  npm run test <cd folder/file>
 ```
 
 
