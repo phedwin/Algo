@@ -15,6 +15,8 @@ public class NQueensII {
      */
 
 
+
+
     public int totalNQueens(int n) {
         int[] res = new int[1];
         char[][] board = new char[n][n];
