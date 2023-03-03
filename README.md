@@ -21,7 +21,7 @@ Solving Algo problems and documenting the thought process behind every structure
 
 - Recursion and Dynamic Programming
 
-- Greedy algorithms
+- Greedy algorithm
 
 - Divide and Conquer algorithms
 
